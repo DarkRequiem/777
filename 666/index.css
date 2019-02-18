@@ -37,7 +37,7 @@
 }
 
 .command img{
-    width: auto;
+    width: 375px;
     height: 277px;
 }
 
@@ -46,12 +46,13 @@
     width: 375px;
 }
 li{
-    width: 100%;
+    width: 375px;
     height: 65px;
-    padding: 16px 103.5px;
+    padding: 16px 100px;
     list-style: none;
     text-decoration: none;
     border: 1px solid #EAF0ED;
+    box-sizing: border-box;
 }
 .c{
     background-color: #3F5D45;
